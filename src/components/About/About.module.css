@@ -26,3 +26,13 @@
 .content p{
     font-size: 1.2rem;
 }
+@keyframes reveal {
+    from{
+        opacity: 0;
+        translate: 0 100px;
+    }
+    to{
+        opacity: 1;
+        translate: 0 0;
+    }
+}

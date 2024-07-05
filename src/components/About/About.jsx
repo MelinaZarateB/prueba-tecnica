@@ -12,8 +12,7 @@ const About = () => {
             </div>
          </div>
          <div>
-            <Interests></Interests>
-
+            <Interests/>
          </div>
         </section>
         </>
