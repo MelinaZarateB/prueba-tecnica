@@ -8,11 +8,11 @@ const About = () => {
          <div className={styles.aboutMeContent}>
             <div className={styles.content}>
             <h2>Sobre mi</h2>
-            <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus tempore doloremque nemo soluta repellendus cupiditate assumenda molestias, eius fugit commodi ipsum, et iure esse impedit. Fugiat incidunt iste et perferendis.</p>
+            <p>Apasionada Desarrolladora Web con experiencia en React, Node y JavasCript. Comprometida con la creacion de soluciones escalables y eficientes.</p>
             </div>
-         </div>
          <div>
             <Interests/>
+         </div>
          </div>
         </section>
         </>

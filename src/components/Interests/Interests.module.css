@@ -2,6 +2,7 @@
     box-sizing: border-box;
     color: rgb(228, 227, 227);
     padding-bottom: 25px;
+    width: 600px;
 }
 .title{
     text-align: center;
@@ -9,6 +10,7 @@
 }
 .sectionContent{
     max-width: 600px;
+
     margin: auto;
 }
 .row{
