@@ -1,7 +1,25 @@
 .aboutContainer{
-    min-height: 50vh;
+    color: rgb(228, 227, 227);
+    font-weight: bold;
     background-color: #323846;
 }
-.aboutContainer p{
-    margin: 0
+.aboutMeContent {
+    box-sizing: border-box;
+    display: flex;
+    height: auto;
+    justify-content: center; 
+    align-items: center; 
+    flex-direction: column;
+    padding: 10px;
+    margin-top: 30px;
+    animation: reveal linear both;
+    animation-timeline: view();
+    animation-range: entry 5% cover 40% ;
+}
+.content{
+    max-width: 600px;
+    text-align: center;
+}
+.content h2{
+    font-size: 1.5rem;
 }

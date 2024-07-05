@@ -4,9 +4,13 @@ const About = () => {
     return(
         <>
         <section className={styles.aboutContainer}>
-           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur id ratione autem maxime! Omnis minima fugit labore dolore enim sapiente delectus, error tempore nemo sit eos est velit veniam ex.
-           </p>
+         <div className={styles.aboutMeContent}>
+            <div className={styles.content}>
+            <h2>Sobre mi</h2>
+            <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus tempore doloremque nemo soluta repellendus cupiditate assumenda molestias, eius fugit commodi ipsum, et iure esse impedit. Fugiat incidunt iste et perferendis.</p>
+            </div>
+         </div>
+         <div></div>
         </section>
         </>
     )
