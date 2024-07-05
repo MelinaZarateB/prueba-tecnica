@@ -1,8 +1,6 @@
 .container{
   height: 100%;
   width: 100%;
-}
-.container div{
   background-color: #20242D;
   margin: 0;
 }

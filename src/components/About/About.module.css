@@ -1,0 +1,7 @@
+.aboutContainer{
+    min-height: 50vh;
+    background-color: #323846;
+}
+.aboutContainer p{
+    margin: 0
+}
